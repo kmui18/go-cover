@@ -1,0 +1,5 @@
+mode: set
+go_cover/pkg1/pkg1.go:7.20,13.2 5 1
+go_cover/pkg1/pkg1.go:15.24,21.2 5 1
+go_cover/pkg1/pkg1.go:23.17,25.2 1 1
+go_cover/pkg2/pkg2.go:3.24,8.2 4 0
